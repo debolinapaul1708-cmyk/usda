@@ -1,0 +1,21 @@
+bid_id,title,department,closing_date,bid_amount,min_turnover,min_experience_years,required_certifications,category
+GOV-2026-001,Supply of Medical Equipment,Health Department,2026-11-02,4500000,10000000,5,"ISO 9001; GST",Medical Equipment
+GOV-2026-002,Road Maintenance Contract,Public Works Department,2026-11-03,12000000,25000000,8,"GST; Contractor License",Infrastructure
+GOV-2026-003,IT Hardware Procurement,Education Department,2026-11-04,2800000,5000000,3,"GST; ISO 27001",IT Hardware
+GOV-2026-004,Office Furniture Supply,General Administration,2026-11-05,1500000,3000000,2,"GST",Furniture
+GOV-2026-005,Laboratory Chemicals Supply,Science & Technology Department,2026-11-06,2200000,4000000,4,"GST; ISO 9001",Laboratory Supplies
+GOV-2026-006,School Uniform Manufacturing,Education Department,2026-11-07,3600000,6000000,3,"GST; ISO 9001",Textiles
+GOV-2026-007,Solar Street Light Installation,Urban Development Department,2026-11-08,8900000,15000000,6,"GST; MNRE Empanelment",Renewable Energy
+GOV-2026-008,Desktop Computers Supply,Home Department,2026-11-09,5200000,8000000,4,"GST; ISO 27001",IT Hardware
+GOV-2026-009,Water Purification Systems,Rural Development Department,2026-11-10,6700000,12000000,5,"GST; BIS Certification",Water Solutions
+GOV-2026-010,Security Guard Services,Public Works Department,2026-11-11,4300000,7000000,5,"GST; PSARA License",Manpower Services
+GOV-2026-011,Hospital Beds Supply,Health Department,2026-11-12,3100000,5000000,3,"GST; ISO 13485",Medical Equipment
+GOV-2026-012,Bridge Repair Works,Public Works Department,2026-11-13,18500000,35000000,10,"GST; Contractor License",Infrastructure
+GOV-2026-013,Library Books Supply,Education Department,2026-11-14,900000,1500000,2,"GST",Books & Publications
+GOV-2026-014,CCTV Surveillance System,Home Department,2026-11-15,7400000,12000000,6,"GST; ISO 9001",Security Systems
+GOV-2026-015,Electric Buses Procurement,Transport Department,2026-11-16,42000000,80000000,12,"GST; ARAI Certification",Electric Vehicles
+GOV-2026-016,Waste Management Services,Municipal Corporation,2026-11-17,5600000,9000000,5,"GST; CPCB Authorization",Waste Management
+GOV-2026-017,Agricultural Equipment Supply,Agriculture Department,2026-11-18,3800000,6500000,4,"GST; ISO 9001",Agriculture
+GOV-2026-018,Cloud Hosting Services,IT Department,2026-11-19,9800000,18000000,7,"GST; ISO 27001",IT Services
+GOV-2026-019,Fire Safety Equipment Supply,Home Department,2026-11-20,2400000,4000000,3,"GST; BIS Certification",Safety Equipment
+GOV-2026-020,Park Development Works,Urban Development Department,2026-11-21,11200000,20000000,8,"GST; Contractor License",Infrastructure
